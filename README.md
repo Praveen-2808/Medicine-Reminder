@@ -119,4 +119,3 @@ Switches           →   LPC2148 Microcontroller → RTC Module
 B.Tech Electronics
 Embedded Systems Enthusiast
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/7e02e803-1ac8-4c87-8887-d7f1d45a1bfe" />
