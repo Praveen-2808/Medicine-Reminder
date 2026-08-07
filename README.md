@@ -88,6 +88,11 @@ Switches           →   LPC2148 Microcontroller → RTC Module
 
 ---
 
+---
+### output
+<img width="1536" height="1024" alt="lcdimg3" src="https://github.com/user-attachments/assets/a8c9c238-0f21-44b2-9a5c-586a66ddbeb2" />
+---
+
 ##  Features
 
 * ⏰ Real-time clock display
