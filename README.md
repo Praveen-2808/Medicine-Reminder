@@ -1,13 +1,13 @@
 
-# 💊 User-Configurable Medicine Reminder System
+#  User-Configurable Medicine Reminder System
 
-## 📌 Aim
+##  Aim
 
 To develop a **User-Configurable Medicine Reminder System** that allows users to set medicine timings and receive automatic alerts at the scheduled time.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Display real-time clock (RTC) on LCD
 * Allow user configuration of medicine timings
@@ -16,13 +16,13 @@ To develop a **User-Configurable Medicine Reminder System** that allows users to
 
 ---
 
-## 📖 Project Description
+##  Project Description
 
 This system is built using an embedded platform where users can set medicine schedules using a keypad/switch interface. The system continuously tracks real time using an RTC module and alerts the user through a buzzer and LCD display when it is time to take medicine.
 
 ---
 
-## 🧩 System Architecture
+##  System Architecture
 
 ```
 4x4 Matrix Keypad  →  
@@ -31,11 +31,14 @@ Switches           →   LPC2148 Microcontroller → RTC Module
                                   LCD Display
                                       ↓
                                     Buzzer
+
+<img width="1536" height="1024" alt="components_img" src="https://github.com/user-attachments/assets/c3c2a834-de5e-420c-aa1b-b8e8d8e74129" />
+
 ```
 
 ---
 
-## ⚙️ Hardware Requirements
+##  Hardware Requirements
 
 * LPC2148 Microcontroller
 * 16x2 LCD Display
@@ -47,7 +50,7 @@ Switches           →   LPC2148 Microcontroller → RTC Module
 
 ---
 
-## 💻 Software Requirements
+##  Software Requirements
 
 * Embedded C Programming
 * Keil uVision
@@ -55,7 +58,9 @@ Switches           →   LPC2148 Microcontroller → RTC Module
 
 ---
 
-## 🔄 Working Principle
+##  Working Principle
+<img width="1024" height="1536" alt="workflow" src="https://github.com/user-attachments/assets/e6baf8b1-695a-4f65-b191-9cab84ab7d48" />
+
 
 ### 1. Configuration Mode (Switch-1)
 
@@ -82,7 +87,7 @@ Switches           →   LPC2148 Microcontroller → RTC Module
 
 ---
 
-## ✨ Features
+##  Features
 
 * ⏰ Real-time clock display
 * 🔧 User-configurable medicine timings
@@ -92,7 +97,7 @@ Switches           →   LPC2148 Microcontroller → RTC Module
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Connect all hardware components
 2. Write and compile code using Keil
@@ -103,7 +108,7 @@ Switches           →   LPC2148 Microcontroller → RTC Module
 
 ---
 
-## 📌 Applications
+##  Applications
 
 * Personal healthcare
 * Elderly assistance systems
