@@ -125,7 +125,7 @@ Switches           →   LPC2148 Microcontroller → RTC Module
 ---
 
 
-## 👨‍💻
+## 
 
 **Jada Praveen**
 B.Tech Electronics
