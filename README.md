@@ -31,10 +31,8 @@ Switches           →   LPC2148 Microcontroller → RTC Module
                                   LCD Display
                                       ↓
                                     Buzzer
-
-<img width="1536" height="1024" alt="components_img" src="https://github.com/user-attachments/assets/c3c2a834-de5e-420c-aa1b-b8e8d8e74129" />
-
 ```
+<img width="1536" height="1024" alt="components_img" src="https://github.com/user-attachments/assets/0af33f52-c249-4418-9d11-964c352216c5" />
 
 ---
 
