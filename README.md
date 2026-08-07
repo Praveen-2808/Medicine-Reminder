@@ -57,7 +57,7 @@ Switches           →   LPC2148 Microcontroller → RTC Module
 ---
 
 ##  Working Principle
-<img width="1024" height="700" alt="workflow" src="https://github.com/user-attachments/assets/e6baf8b1-695a-4f65-b191-9cab84ab7d48" />
+<img width="1024" height="900" alt="workflow" src="https://github.com/user-attachments/assets/e6baf8b1-695a-4f65-b191-9cab84ab7d48" />
 
 
 ### 1. Configuration Mode (Switch-1)
