@@ -47,7 +47,7 @@ Switches           →   LPC2148 Microcontroller → RTC Module
 * Buzzer
 * Switches
 * USB-UART Converter / DB9 Cable
-![IMG_4369](https://github.com/user-attachments/assets/7034c0e0-5247-4421-b9d6-80bbd9c1d60a)
+<img width="1452" height="1083" alt="controller_main" src="https://github.com/user-attachments/assets/c0f71410-3571-4047-842e-781bb3bc60f1" />
 
 ---
 
