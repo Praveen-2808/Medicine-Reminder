@@ -34,7 +34,7 @@ Switches           →   LPC2148 Microcontroller → RTC Module
                                       ↓
                                     Buzzer
 ```
-<img width="1536" height="1024" alt="components_img2" src="https://github.com/user-attachments/assets/ca4dce4e-9c8a-4672-b609-c28a8ec82a84" />
+<img width="1536" height="1024" alt="components_img4" src="https://github.com/user-attachments/assets/656601ce-9e6e-4195-a49e-f688ee20bb48" />
 
 ---
 
