@@ -1,6 +1,6 @@
 
 #  User-Configurable Medicine Reminder System
-<img width="1774" height="887" alt="heading img4" src="https://github.com/user-attachments/assets/1c4875ca-aba4-4833-a4e6-25c6c234cafb" />
+<img width="1672" height="941" alt="heading img5" src="https://github.com/user-attachments/assets/d99c3429-60ab-4e03-9000-e6b5ba9f3523" />
 
 
 ##  Aim
@@ -90,7 +90,7 @@ Switches           →   LPC2148 Microcontroller → RTC Module
 
 ---
 ### Output
-<img width="1536" height="1024" alt="lcdimg3" src="https://github.com/user-attachments/assets/a8c9c238-0f21-44b2-9a5c-586a66ddbeb2" />
+<img width="2000" height="1333" alt="Beautiful Natural Sunset Aesthetics Mood Photo Collage (1)" src="https://github.com/user-attachments/assets/d06a0165-6be6-4ead-a412-19a3d5b231a8" />
 
 ---
 
