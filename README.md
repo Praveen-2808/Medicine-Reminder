@@ -90,7 +90,7 @@ Switches           →   LPC2148 Microcontroller → RTC Module
 
 ---
 ### Output
-<img width="2000" height="1333" alt="Beautiful Natural Sunset Aesthetics Mood Photo Collage (1)" src="https://github.com/user-attachments/assets/d06a0165-6be6-4ead-a412-19a3d5b231a8" />
+<img width="1536" height="725" alt="lcdimg5" src="https://github.com/user-attachments/assets/ba202346-d307-479a-ad80-29d40d0e4db0" />
 
 ---
 
